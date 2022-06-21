@@ -1,7 +1,0 @@
-logs
-*.log
-main/
-.env
-target/
-.idea/
-test/
