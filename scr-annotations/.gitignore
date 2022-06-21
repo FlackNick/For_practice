@@ -1,0 +1,6 @@
+logs
+*.log
+.env
+target/
+.idea/
+test/
