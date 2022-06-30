@@ -1,2 +1,2 @@
-# For_practice
+# For practice
 Repository for practice assignments from ITMO
